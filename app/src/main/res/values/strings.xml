@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">pmdm_tasks</string>
+    <string name="move_up">move up</string>
+    <string name="move_down">move down</string>
+    <string name="cancel_down">cancel down</string>
+    <string name="cancel_up">cancel up</string>
+</resources>
